@@ -1,7 +1,6 @@
 // Portfolio JavaScript file
 // This file is ready for future interactive features
 
-// Example: Smooth scrolling for navigation links
 document.addEventListener('DOMContentLoaded', function() {
     // Get all navigation links
     const navLinks = document.querySelectorAll('.nav-links a[href^="#"]');
